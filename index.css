@@ -1,0 +1,38 @@
+body{background-color: rgb(232, 236, 236);}
+h1{
+    color: red;
+    text-align: center;
+}
+p{
+    font-size: 50px;
+    text-align: justify;
+}
+li{
+    margin-bottom: 15px;
+}
+
+#ciclismo{
+    height: 400px;
+    width: 400px;
+    border-radius: 50px;
+}
+
+li{
+    list-style: upper-roman;
+    font-size: 15px;
+    color: blue;
+    width: fit-content;
+    background-color: rgb(198, 226, 43);
+
+}
+
+a:hover{
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+}
+
+#mensagem{
+    font-size: 40px;
+    color: blue;
+}
+
